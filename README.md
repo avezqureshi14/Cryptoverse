@@ -1,7 +1,7 @@
 <b style="font-weight:bolder,font-size:2rem" >Cryptoverse - Redux Toolkit</b>
 
 <b style="font-weight:bold" > 🔴 Live Link of the application 🔴 👉 </b>https://cryptoverse-avez.netlify.app/
-Note: If you are using it for the first time, the application may take time to respond due to slow server
+
 </br>
 <b style="font-weight:bold" > 🔴 Video Demo of the application 🔴 👉 </b>[Youtube](https://www.youtube.com/watch?v=TqCzuINluXM)
 </br>
