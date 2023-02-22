@@ -6,16 +6,22 @@
 <b style="font-weight:bold" > 🔴 Video Demo of the application 🔴 👉 </b>[Youtube](https://www.youtube.com/watch?v=TqCzuINluXM)
 </br>
 </br>
-![img1](https://user-images.githubusercontent.com/95353195/220659078-1ee9725b-bedd-4f40-aa72-bf8f1bb179dc.png)
+![d1](https://user-images.githubusercontent.com/95353195/220662517-bd226061-8f2d-447c-8234-9a63afd529be.png)
 </br>
 </br>
 </br>
 </br>
-![img2](https://user-images.githubusercontent.com/95353195/220658726-58278d69-a052-4a41-886f-31eea8c0cd5e.png)
+![d3](https://user-images.githubusercontent.com/95353195/220662510-69d018e8-0be7-404b-9fb7-93c5307b1729.png)
 
 </br>
 </br>
-
+</br>
+</br>
+![d2](https://user-images.githubusercontent.com/95353195/220662521-189dbadd-2863-4acf-92a8-6aa1c699c390.png)
+</br>
+</br>
+</br>
+</br>
 <b style="font-weight:bolder,font-size:2rem" > Description   :</b>
 
 Cryptoverse is an application where user can get authenticate news and detailed information regarding cryptocurrency not only this but also the most accurate Crypto Market Stats. It is build using React JS specifically Redux Toolkit
