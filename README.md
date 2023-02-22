@@ -46,7 +46,7 @@ Note: If you are using it for the first time, the application may take time to r
 <b style="font-weight:bold" > 🔴 Video Demo of the application 🔴 👉 </b>[Youtube](https://youtu.be/IWoaKbBP8f8)
 </br>
 </br>
-![img1](https://user-images.githubusercontent.com/95353195/220659078-1ee9725b-bedd-4f40-aa72-bf8f1bb179dc.png)
+![d1](https://user-images.githubusercontent.com/95353195/220662517-bd226061-8f2d-447c-8234-9a63afd529be.png)
 </br>
 </br>
 </br>
