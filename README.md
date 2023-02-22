@@ -9,8 +9,7 @@ Note: If you are using it for the first time, the application may take time to r
 ![d1](https://user-images.githubusercontent.com/95353195/220662517-bd226061-8f2d-447c-8234-9a63afd529be.png)
 </br>
 </br>
-</br>
-</br>
+
 ![d3](https://user-images.githubusercontent.com/95353195/220662510-69d018e8-0be7-404b-9fb7-93c5307b1729.png)
 
 </br>
